@@ -84,11 +84,11 @@
   "item.artifacts.helium_flamingo.tooltip.1": "Presiona %s en el aire para nadar",
   "item.artifacts.aqua_dashers.tooltip": "Permite al portador correr sobre fluidos",
   "item.artifacts.charm_of_sinking.tooltip": "El portador puede moverse libremente en el agua",
-  "artifacts.subtitles.entity.mimic.close": "Mimic closes",
-  "artifacts.subtitles.entity.mimic.open": "Mimic hops",
-  "artifacts.subtitles.entity.mimic.hurt": "Mimic hurts",
-  "artifacts.subtitles.entity.mimic.death": "Mimic dies",
-  "artifacts.subtitles.item.whoopee_cushion.fart": "Peo",
+  "artifacts.subtitles.entity.mimic.close": "Mimic cerca",
+  "artifacts.subtitles.entity.mimic.open": "Mimic salta",
+  "artifacts.subtitles.entity.mimic.hurt": "Mimic daño",
+  "artifacts.subtitles.entity.mimic.death": "Mimic muere",
+  "artifacts.subtitles.item.whoopee_cushion.fart": "Pedo",
   "artifacts.config.common.campsite.biome_blacklist": "Lista negra para sitios de acampada en los biomas",
   "artifacts.config.common.campsite.rarity": "Rareza de campamentos",
   "artifacts.config.common.campsite.min_y": "Altura minima para generar campamentos",
@@ -133,5 +133,5 @@
   "artifacts.config.server.universal_attractor.motionMultiplier": "Multiplicador de atracción",
   "artifacts.config.server.vampiric_glove.absorption_ratio": "Radio de absorción",
   "artifacts.config.server.vampiric_glove.max_health_absorbed": "Máxima vida absorvida",
-  "artifacts.config.server.whoopee_cushion.flatulence": "Flatulencias/Peos"
+  "artifacts.config.server.whoopee_cushion.flatulence": "Flatulencias/Pedos"
 }
